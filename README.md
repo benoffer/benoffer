@@ -1,3 +1,4 @@
+![Robot Banner Image](RobotBanner.jpg)
 ## Java Full-Stack Developer Looking for Opportunities  
 I just graduated from a full-stack bootcamp in August, 2020 and am looking for opportunities to start a new career.
 
