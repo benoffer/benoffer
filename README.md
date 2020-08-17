@@ -5,7 +5,7 @@ I just graduated from a full-stack bootcamp in August, 2020 and am looking for o
 ## My Links
 [BenjaminOffer.com](https://benjaminoffer.com/) *\- My Personal Website*   
 [LoclFlavr](http://loclflavr.com/) *\- Playlist App that I'm Working On*  
-[My LinkedIn Profile](https://www.linkedin.com/in/benoffer/)  
+[My LinkedIn](https://www.linkedin.com/in/benoffer/)  
 [My Codewars](https://www.codewars.com/users/benoffer)  
 [My HackerRank](https://www.hackerrank.com/ben_offer)
 
